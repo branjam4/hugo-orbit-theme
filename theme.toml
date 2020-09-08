@@ -1,8 +1,8 @@
 name = "Orbit"
 license = "MIT"
-licenselink = "//github.com/aerohub/hugo-orbit-theme/blob/master/LICENSE.md"
+licenselink = "//github.com/branjam4/hugo-orbit-theme/blob/master/LICENSE.md"
 description = "Responsive Resume/CV Theme for Developers"
-homepage = "//github.com/aerohub/hugo-orbit-theme"
+homepage = "//github.com/branjam4/hugo-orbit-theme"
 tags = ["cv", "resume", "colour schemes"]
 features = ["responsive", "colour schemes"]
 min_version = 0.16
